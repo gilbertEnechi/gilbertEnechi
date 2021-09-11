@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilbertEnechi
 - 👀 I’m interested in ...Biomedical Apps
-- 🌱 I’m currently learning ...App development using Java
+- 🌱 I’m currently learning ...App development using Java/Android studio
 - 💞️ I’m looking to collaborate on ...expert programmers on
 - 📫 How to deveope quality and elegant android app using minimal UI facilities.
 I use Java as my programing environment
